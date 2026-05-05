@@ -6,3 +6,4 @@ High performance production repository.
 MIT © Ayush Chandra
 - [May 05, 2026] Feature upgrade batch 0
 - [May 05, 2026] Feature upgrade batch 1
+- [May 05, 2026] Feature upgrade batch 2
